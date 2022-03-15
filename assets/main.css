@@ -124,7 +124,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .post-list { margin-left: 0; list-style: none; display: flex; justify-content: space-evenly; flex-wrap: wrap; }
 
-.post-list > li { margin-bottom: 30px; background-color: #d9d9d9; padding: 10px; border-radius: 9px; width: 300px; }
+.post-list > li { margin-bottom: 30px; background-color: #d9d9d9; padding: 10px; border-radius: 9px; width: 300px; height: max-content !important; }
 
 .post-meta { font-size: 14px; color: #828282; }
 
