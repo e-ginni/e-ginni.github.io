@@ -33,7 +33,7 @@ In my free time, I have developed a habit to browse through github repositories,
 I've come to love websites and their development after decades of fantasizing their operation. I can help you build a *small* one affordably, just [reach out]().
 
 <figure>
-  <img src="/assets/images/attachment-about.jpg" alt="Copenhagen 2018">
+  <img src="/assets/images/attachment-about.jpg" alt="just-me">
   <figcaption>That's me</figcaption>
 </figure>
 
