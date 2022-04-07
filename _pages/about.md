@@ -24,19 +24,7 @@ I love technology. And I love spending most of my time punching keyboard keys:- 
 
 
 ## Freelacnce Writing
-One of the main reasons I tirelessly worked to get this blog up an runnig is to post content on topics I think might be useful to others.
 
-I have always felt the need to explain technology, since there's always someone looking for something to leanrn.
-
-I will mostly talk about Android, WordPress, Front-end web development and other topics I find interesting and helpful.
-
-
-
-
-* [The GDG (Google Developer Group) chapter in Pisa](https://gdgpisa.it/)
-* [The Kotlin User Group in Hamburg](https://www.meetup.com/Kotlin-User-Group-Hamburg/)
-
-I also really enjoy public speaking and sharing my experiences. You can checkout some of my slides and videos in the [talks page](/talks). Are you looking for speakers? I'm happy to travel and come to your meetup/conference! Just send me a [mail](mailto:corti.nico@gmail.com).
 
 ## Programming
 
@@ -46,6 +34,6 @@ I've come to love websites and their development after decades of fantasizing th
 
 <figure>
   <img src="/assets/images/attachment-about.jpg" alt="Copenhagen 2018">
-  <figcaption>Copenhagen 2018</figcaption>
+  <figcaption>That's me</figcaption>
 </figure>
 
