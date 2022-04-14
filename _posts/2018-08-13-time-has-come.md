@@ -1,7 +1,8 @@
 ---
 title: "Time has come!"
 excerpt: "Welcome to my new website"
-author: "Edwin Ginni"
+categories: "Blog"
+
 
 header:
   image: "/assets/images/post1.jpg"

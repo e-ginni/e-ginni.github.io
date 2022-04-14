@@ -37,20 +37,18 @@ feature_row:
     url: "/about-me"
 ---
 
-<h2 align="center">
+<h2 align="center" style="border: ;padding-bottom: 1.5em !important;">
     Freelance Writing, Programming, good design and explaining technology
 </h2>
 
-<br>
-<br>
-<hr>
+
 
 
 {% include feature_row %}
 
 <div class="archive">
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h2 style="font-size: 2em !important;" class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
 <br>
 
