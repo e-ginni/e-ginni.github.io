@@ -13,6 +13,13 @@ header:
     show_overlay_excerpt: true
 ---
 
+
+<figure>
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/yoJC2QTvVjDckXYFPO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/happy-ariana-grande-grammys-2015-yoJC2QTvVjDckXYFPO">via GIPHY</a></p>
+  <!-- <img src="/assets/images/attachment-about.jpg" alt="just-me"> -->
+  <figcaption>Feeling when typing this page!</figcaption>
+</figure>
+
 # Well, hello! I am Edwin Ginni
 
 I'm a **Freelance Writer** a **Self-taught developer**(still a lot to learn) and a **Lover of eveything tech**.
@@ -33,7 +40,7 @@ In my free time, I have developed a habit to browse through github repositories,
 I've come to love websites and their development after decades of fantasizing their operation. I can help you build a *small* one affordably, just [reach out]().
 
 <figure>
-  <img src="/assets/images/attachment-about.jpg" alt="just-me">
-  <figcaption>That's me</figcaption>
+  <!-- <img src="/assets/images/attachment-about.jpg" alt="just-me"> -->
+  <figcaption>Oh yeah!</figcaption>
 </figure>
 
