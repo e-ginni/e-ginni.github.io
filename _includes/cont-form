@@ -1,0 +1,32 @@
+<div>
+    <form class="form-signin">
+      <p class="mb-4">Contact me</p>
+      <div class="form-label-group">
+        <input type="text" id="inputName" class="form-control" placeholder="Your Name" required >
+        <label for="inputName">Your name</label>
+      </div>
+      <div class="form-label-group">
+        <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required >
+        <label for="inputEmail">Email address</label>
+      </div>
+
+      <!-- <div class="form-label-group">
+        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <label for="inputPassword">Password</label>
+      </div> -->
+      <div class="form-label-group">
+        <textarea name="message" id="inputMessage" cols="10" rows="10" placeholder="Your message (keep it short)"></textarea>
+      </div>
+      
+
+      <div style="height: 20px;"></div>
+
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> I'd like to work with you
+        </label>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Send message</button>
+      <!-- <p class="mt-5 mb-3 text-muted text-center">&copy; 2017-2018</p> -->
+    </form>
+</div>

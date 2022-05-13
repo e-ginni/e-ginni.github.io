@@ -4,7 +4,7 @@ layout: single
 excerpt: "List of projects and open source contributions I've done."
 sitemap: true
 permalink: /projects
-author_profile: true
+author_profile: false
 toc: true
 toc_label: "Projects"
 toc_icon: "cog"

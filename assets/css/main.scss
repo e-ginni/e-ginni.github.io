@@ -102,10 +102,11 @@ h3.archive__date {
   border-radius: $border-radius;
   position: absolute;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: #000000;
   padding: 1rem 1rem 1rem 1rem;
   margin-bottom: 8px;
   width:100%;
+  opacity: 80%;
 }
 
 .feature__item--row .archive__item_titlecontainer {

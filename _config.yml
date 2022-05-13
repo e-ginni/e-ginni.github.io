@@ -23,7 +23,7 @@ url                      : "https://e-ginni.github.io"
 # baseurl                  : "/"
 repository               : "e-ginni/e-ginni.github.io"
 teaser                   : "assets/images/og_default_header.jpg"
-breadcrumbs            : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 220
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "edwinginni"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Edwin Ginni"
-  avatar           : #"/assets/images/avatar.png"
-  bio              : "Writer, Self-taught developer with a knack for good design"
+  avatar           : "/assets/images/avatar.png"
+  bio              : "Tech explainer, Self-taught developer, rice lover"
   location         : "Nairobi, Kenya"
   email            : "edwin.ginni@gmail.com"
   uri              : 
