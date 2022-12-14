@@ -1,6 +1,6 @@
 ---
-title: "How-to Github Actions: Building your Android App"
-categories: "Android"
+title: "How comes you can see this from anywhere?"
+categories: "Web"
 
 excerpt: "Setting up a Continuous Integration system for your Android App on Github has never been so easy with Github Actions"
 
