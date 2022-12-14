@@ -2,6 +2,7 @@
 title: "Firt Post (Testing waters)"
 excerpt: "Welcome to my new website"
 categories: "Blog"
+author_profile: true
 
 
 header:
